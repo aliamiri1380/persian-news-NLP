@@ -1,10 +1,10 @@
 this dataset is crowled from <a href='khabaronline.ir'>khabaronline.ir</a>
-and has about 45000 samples
-into 4 classes:
-1: Technology
-2: Economic
-3: Sport
-4: politic
-
-Data Structure:
+and has about 45000 samples<br />
+into 4 classes: <br />
+1: Technology<br />
+2: Economic<br />
+3: Sport<br />
+4: politic<br />
+<br /><br />
+Data Structure:<br />
 CLASS:NEWS TITLE
